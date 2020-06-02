@@ -1,0 +1,10 @@
+{
+  "name": "generator-cinyear-vue",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "cinyearchan",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
